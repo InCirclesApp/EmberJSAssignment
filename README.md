@@ -1,4 +1,6 @@
-### EmberJS Covid-19 Dashboard
+## EmberJS Assignment
+
+### Covid-19 Dashboard
 
 Doctors, epidemiologists, and specialists need to take a fast response to the current COVID-19 outbreak.
 For that, they need as much data as possible to make the correct decisions.
